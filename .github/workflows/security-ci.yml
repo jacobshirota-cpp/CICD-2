@@ -22,6 +22,6 @@ jobs:
         continue-on-error: true
       - name: Security Check 2 - Code Security Scan
         run: |
-          echo "￿ Scanning code for security issues..."
+          echo "Scanning code for security issues..."
           bandit -r src/ -ll
         continue-on-error: true
