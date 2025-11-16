@@ -1,4 +1,4 @@
-# This is a test of GitHub Actions
+# 2 This is a test of GitHub Actions
 def add(a, b):
     return a + b
 
