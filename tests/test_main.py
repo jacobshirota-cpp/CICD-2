@@ -1,4 +1,4 @@
-import main
+from source import main
 import pytest
 
 def test_one():
